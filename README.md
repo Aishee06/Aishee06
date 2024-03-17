@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aishee</h1>
 <h3 align="center">Engineering 💻| AIML 🧑🏻‍💻| Space 🚀</h3>
 
+# 💫 About Me:
+🔭 I’m currently working on personal projects<br>💬 Ask me about anything<br>📫 How to reach me? Email me at aisheeguhabiswas04@gmail.com<br>⚡ Fun fact: My keyboard has more fingerprints than a crime scene.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aishee-guha-biswas-10a739268/) 
