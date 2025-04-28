@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Explorer🤖, Engineer💻, Space, Science & Curiosity🌌, Nature Lover🌿, Lifelong Learner📚</h3>
 
 # 💫 About Me:
-🔭 I am currently working on personal projects<br>💬 Ask me about anything<br>📫 How to reach me? Email me at aisheeguhabiswas04@gmail.com<br>⚡ Fun fact: I speak three languages: Python, Java, and Sarcasm😎.
+🔭 I am currently working on personal projects<br>💬 Ask me about anything<br>📫 How to reach me? Email me at aisheeguhabiswas04@gmail.com<br>⚡ Fun fact: I speak three languages: Python, Java, and Sarcasm😎
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aishee-guha-biswas-10a739268/) 
